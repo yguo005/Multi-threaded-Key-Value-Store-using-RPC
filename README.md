@@ -79,11 +79,7 @@ Instructions will vary significantly based on the chosen RPC framework (Java RMI
 *   **Error Handling:** Implement robust error handling for RPC communication issues, server-side exceptions, etc.
 *   **Server Shutdown:** While the project description for Project #1 mentioned running forever, consider how your multi-threaded server might be gracefully shut down if needed (though not explicitly required to be implemented for this project beyond manual termination).
 
-## Executive Summary
 
-As part of the submission, an executive summary is required, containing:
-1.  **Assignment Overview:** (1 paragraph, up to ~250 words) Your understanding of the project's purpose and scope, particularly the enhancements for RPC and multi-threading.
-2.  **Technical Impression:** (1-2 paragraphs, ~200-500 words) Your experiences, challenges (e.g., choosing an RPC framework, implementing thread safety), and learnings during the assignment.
 
 ## Project Deliverables
 
